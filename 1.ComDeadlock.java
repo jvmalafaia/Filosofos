@@ -1,3 +1,5 @@
+//Filosofos
+
 using System;
 using System.Threading;
 
@@ -67,6 +69,8 @@ namespace filosofos
         }
     }
 }
+
+ //Main
 
 using System;
 using System.Collections.Generic;
